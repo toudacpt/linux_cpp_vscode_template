@@ -1,0 +1,7 @@
+CompileFlags:
+  Add: -ferror-limit=100
+InlayHints:
+  Enabled: No
+  ParameterNames: No
+  DeducedTypes: No
+

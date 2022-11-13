@@ -1,0 +1,7 @@
+{
+    "clang.fallbackFlags":[
+        "-I${workspaceFolder}/include",
+        "-std=c++20",
+        "-I${workspaceFolder}"
+    ]
+}
